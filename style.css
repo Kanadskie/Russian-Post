@@ -18,8 +18,7 @@ h1 {
   margin-bottom: 24px; }
 
 .container {
-  max-width: 100%;
-  overflow-x: hidden; }
+  max-width: 100%; }
 
 .container-inner {
   display: -webkit-box;
