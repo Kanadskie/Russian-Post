@@ -18,7 +18,8 @@ h1 {
   margin-bottom: 24px; }
 
 .container {
-  max-width: 100%; }
+  max-width: 100%;
+  overflow-x: hidden; }
 
 .container-inner {
   display: -webkit-box;
@@ -423,7 +424,7 @@ h1 {
           -o-object-fit: cover;
           object-fit: cover; }
   .sending .tarif-block {
-    margin-top: 48px; }
+    margin: 48px 0; }
     .sending .tarif-block .desc {
       margin-top: 10px;
       margin-bottom: 24px; }
